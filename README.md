@@ -4,4 +4,6 @@ This project performs an exploratory data analysis (EDA) of COVID-19 cases and d
 ## Dataset
 [Download Dataset from Google Drive](https://drive.google.com/drive/u/1/folders/1EDGcgWUi0cXuR4Oh9uaLxyx0Xlcu9PjI)
 
+# [View the interactive file](https://nbviewer.org/github/Nishk700/Covid_EDA/blob/main/Covid_EDA_LSLK.html)
+
 
